@@ -1,0 +1,13 @@
+{
+	"uuid": "mprissubsonic@celynw.github.io",
+	"name": "Mpris Indicator Button",
+	"description": "An MPRIS control extension with subsonic ratings.",
+	"original-author": "celynw@github.io",
+	"shell-version": [
+		"3.38",
+		"40",
+		"41",
+		"42"
+	],
+	"url": "https://github.com/celynw/gnome-shell-mpris-subsonic/"
+}
